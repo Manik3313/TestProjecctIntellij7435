@@ -1,0 +1,8 @@
+2020-12-28 16:46:27,615 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> id: username]is displayed 
+2020-12-28 16:46:27,861 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> id: password]is displayed 
+2020-12-28 16:46:28,085 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> id: tp-sign-in]is displayed 
+2020-12-28 16:46:45,010 INFO  [ConsoleLog] Thread ID = 1  -- Homepage logo is displayed 
+2020-12-28 16:46:45,145 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> xpath: //div[@class='links']/a[contains(text(),'Integrations')]]is displayed 
+2020-12-28 16:46:50,428 INFO  [ConsoleLog] Thread ID = 1  -- Integrationpage is displayed 
+2020-12-28 16:46:50,559 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> xpath: //div[contains(text(),'Display token')]]is displayed 
+2020-12-28 16:46:55,827 INFO  [ConsoleLog] Thread ID = 1  -- [[ChromeDriver: chrome on WINDOWS (891efe94a628491878a440d51d5e8c64)] -> xpath: //div[@class='links']/a[contains(text(),'Project')]]is displayed 
