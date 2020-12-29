@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>RestAPI</artifactId>
-
+    <packaging>pom</packaging>
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
