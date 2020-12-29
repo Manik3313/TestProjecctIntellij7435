@@ -10,13 +10,13 @@ import java.io.IOException;
 
 public class Practiice
 {
-   @Test()
+   @Test(groups = "d")
    public void test1() throws InvalidTokenException, AgentConnectException, ObsoleteVersionException, IOException {
        System.out.println("In test1");
       
    }
 
-    @Test()
+    @Test(groups = "d")
     public void test2()
    {
 
